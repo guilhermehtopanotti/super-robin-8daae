@@ -15,7 +15,7 @@ header:
   background: dark
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Resumo
       url: /
       style: link
     - label: Blog
