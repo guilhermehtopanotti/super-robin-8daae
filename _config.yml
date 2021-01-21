@@ -18,11 +18,11 @@ header:
     - label: Resumo
       url: /
       style: link
-    - label: Portfolio
-      url: /blog/
-      style: link
     - label: Sobre mim
       url: /about/
+      style: link
+    - label: Portfolio
+      url: /blog/
       style: link
     - label: contato
       url: /contact/
