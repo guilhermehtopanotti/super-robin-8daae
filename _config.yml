@@ -21,7 +21,7 @@ header:
     - label: Portfolio
       url: /blog/
       style: link
-    - label: About
+    - label: Sobre mim
       url: /about/
       style: link
     - label: contato
