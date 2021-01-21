@@ -21,7 +21,7 @@ header:
     - label: Portfolio
       url: /blog/
       style: link
-    - label: est
+    - label: ''
       url: /style-guide/
       style: link
     - label: About
