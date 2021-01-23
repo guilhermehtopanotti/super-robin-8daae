@@ -15,7 +15,7 @@ header:
   background: dark
   has_nav: true
   nav_links:
-    - label: Resumo
+    - label: Habilidades
       url: /
       style: link
     - label: Sobre mim
