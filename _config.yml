@@ -9,7 +9,7 @@ layout_style: overflow
 palette: blue
 header:
   title: Guilherme Topanotti
-  tagline: Desenvolvedor Full Stack
+  tagline: ''
   profile_img: images/avatar.png
   profile_img_alt: Author avatar
   background: dark
