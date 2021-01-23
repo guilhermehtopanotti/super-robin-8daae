@@ -18,7 +18,7 @@ header:
     - label: Habilidades
       url: /
       style: link
-    - label: Sobre mim
+    - label: Projetos
       url: /about/
       style: link
     - label: Portfolio
