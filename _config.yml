@@ -15,7 +15,7 @@ header:
   background: dark
   has_nav: true
   nav_links:
-    - label: Habilidades
+    - label: Sobre
       url: /
       style: link
     - label: Projetos
